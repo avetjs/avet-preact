@@ -1,0 +1,44 @@
+{
+  "name": "avet-preact",
+  "version": "0.2.0",
+  "description": "avet preact",
+  "avetPlugin": {
+    "name": "preact"
+  },
+  "keywords": [
+    "avet",
+    "avetPlugin",
+    "avet-plugin",
+    "pwa"
+  ],
+  "dependencies": {
+    "module-alias": "^2.0.1",
+    "preact": "^8.2.6",
+    "preact-compat": "^3.17.0"
+  },
+  "devDependencies": {
+    "avet-bin": "0.2.0",
+    "babel": "^6.3.26",
+    "babel-runtime": "^6.11.6",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-preset-airbnb": "^1.0.1",
+    "babel-register": "^6.4.3"
+  },
+  "author": "okoala <dapixp@gmail.com>",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "files": [
+    "config",
+    "page",
+    "extend",
+    "dist",
+    "app.js"
+  ],
+  "ci": {
+    "version": "8"
+  },
+  "license": "MIT"
+}
