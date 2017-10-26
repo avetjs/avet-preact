@@ -1,6 +1,6 @@
 {
   "name": "avet-preact",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "avet preact",
   "avetPlugin": {
     "name": "preact"
