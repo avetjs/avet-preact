@@ -1,5 +1,6 @@
-const { parse } = require('url');
 'use strict';
+
+const moduleAlias = require('module-alias');
 
 module.exports = app => {
   // For the development version, we'll use React.
