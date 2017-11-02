@@ -12,7 +12,6 @@
     "pwa"
   ],
   "dependencies": {
-    "module-alias": "^2.0.1",
     "preact": "^8.2.6",
     "preact-compat": "^3.17.0"
   },

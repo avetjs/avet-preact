@@ -4,8 +4,8 @@ exports.build = {
   webpack: {
     resolve: {
       alias: {
-        'react': 'preact-compat/dist/preact-compat',
-        'react-dom': 'preact-compat/dist/preact-compat'
+        'react': require.resolve('preact-compat/dist/preact-compat'),
+        'react-dom': require.resolve('preact-compat/dist/preact-compat')
       }
     }
   }
