@@ -16,7 +16,7 @@
     "preact-compat": "^3.17.0"
   },
   "devDependencies": {
-    "avet-bin": "0.3.0"
+    "avet-bin": "^0.4.1"
   },
   "author": "okoala <dapixp@gmail.com>",
   "engines": {
