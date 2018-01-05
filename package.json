@@ -7,14 +7,14 @@
   },
   "keywords": ["avet", "avetPlugin", "avet-plugin", "preact"],
   "dependencies": {
-    "preact": "^8.2.6",
-    "preact-compat": "^3.17.0"
+    "preact": "8.2.7",
+    "preact-compat": "3.17.0"
   },
   "devDependencies": {
-    "avet-bin": "^0.7.4",
-    "babel-eslint": "^8.0.2",
-    "eslint": "^4.9.0",
-    "eslint-config-avet": "^0.3.7"
+    "avet-bin": "0.7.4",
+    "babel-eslint": "8.1.2",
+    "eslint": "4.14.0",
+    "eslint-config-avet": "0.3.11"
   },
   "author": "okoala <dapixp@gmail.com>",
   "engines": {
